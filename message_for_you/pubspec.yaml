@@ -65,6 +65,16 @@ flutter:
       - assets/images/purple_theme/msgback.png
       - assets/images/purple_theme/random.png
       - assets/images/purple_theme/Schedule.png
+      - assets/images/purple_theme/loginBack.png
+      - assets/images/purple_theme/scaffBack.png
+      - assets/images/purple_theme/scaff.jpg
+      - assets/images/purple_theme/scaff2.jpg
+      - assets/images/purple_theme/scaff3.jpg
+      - assets/images/purple_theme/user_icon.png
+      - assets/images/purple_theme/mail.png
+      - assets/images/purple_theme/password.png
+      
+
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
